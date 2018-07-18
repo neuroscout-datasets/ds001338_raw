@@ -1,3 +1,7 @@
+3.0.0	2018-06-04
+
+	- DOI links added for Nat Comms publication
+
 2.0.0	2018-05-07
 
 	- Added .tsv files for task events; renamed /stimulus directory to /stimuli & removed from .bidsignore
