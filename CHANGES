@@ -1,3 +1,7 @@
+1.0.1   2019-2-12
+	
+	- Modified dataset so that there is a single task ("story") with three runs each. 
+
 1.0.0	2018-10-19
 
 	- Added participants.tsv file with age, sex and GPTS-A score for each subject
